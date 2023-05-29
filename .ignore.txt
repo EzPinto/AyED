@@ -1,0 +1,4 @@
+/Ejercicios_Practica
+/.vscode
+/Guía 01 (Ejercicios básicos).md
+/01-CalcularPi/Pruebas
